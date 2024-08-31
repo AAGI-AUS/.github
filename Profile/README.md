@@ -1,4 +1,9 @@
-## Analytics for the Australian Grains Industry
+## Analytics for the Australian Grains Industry (AAGI)
+
+Analytics for the Australian Grains Industry (AAGI) is a five-year strategic partnership aimed at harnessing analytics to drive the sector’s profitability and global competitiveness.
+
+This GitHub organisation is the home for the AAGI project's publicly available outputs and other resources that can be shared.
+
 <!--
 
 **Here are some ideas to get you started:**
