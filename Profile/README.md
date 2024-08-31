@@ -1,4 +1,4 @@
-## Analytics for the Australian Grains Industry (AAGI)
+## Analytics for the Australian Grains Industry (AAGI) <img src="./AAGI_logo.png" align="right"/>
 
 Analytics for the Australian Grains Industry (AAGI) is a five-year strategic partnership aimed at harnessing analytics to drive the sector’s profitability and global competitiveness.
 
