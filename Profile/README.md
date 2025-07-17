@@ -9,7 +9,7 @@ The strategic partners work with project and associate partner organisations tha
 
 ### AAGI-AUS R-Universe for R Users
 
-AAGI maintains an R-Universe for easy installation of our R packages, <https://aagi-aus.r-universe.dev/builds>.
+AAGI maintains an R-Universe for easy installation of our R packages, <https://aagi-aus.r-universe.dev/packages>.
 You can enable it like so:
 
 ```r
