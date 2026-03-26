@@ -13,23 +13,15 @@ AAGI maintains an R-Universe for easy installation of our R packages, <https://a
 You can enable it like so:
 
 ```r
-options(repos = c(
+options(
+  repos = c(
     aagi_aus = "https://aagi-aus.r-universe.dev",
-    CRAN = "https://cloud.r-project.org"))
+    CRAN = "https://cloud.r-project.org"
+  )
+)
 ```
 
 Once enabled, you can install any of our R packages by simply using `install.packages("package_name_here")`.
-More detailed install instructions are provided in the packages' respective respositories.
+More detailed install instructions are provided in the packages' respective repositories.
 
-![](./strategic_partners.png)
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![](./AAGI_SP_Logo_Block-Portrait.svg)
