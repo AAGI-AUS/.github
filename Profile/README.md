@@ -4,7 +4,7 @@ Analytics for the Australian Grains Industry (AAGI) is a five-year strategic par
 
 This GitHub organisation is the home for the AAGI project's publicly available outputs and other resources that can be shared.
 
-AAGI is led by four strategic partners: [Curtin University](https://www.ccdm.com.au/research/aagi/), [University of Queensland](https://www.uq.edu.au/), and [Adelaide University](https://www.adelaide.edu.au/) along with the [Grains Research and Development Corporation](https://grdc.com.au/).
+AAGI is led by four strategic partners: [Adelaide University](https://adelaide.edu.au/research/analytics-for-the-australian-grains-industry/), [Curtin University](https://www.ccdm.com.au/research/aagi/), [University of Queensland](https://agriculture-food-sustainability.uq.edu.au/research/research-centres-and-groups/analytics-australian-grains-industry/) along with the [Grains Research and Development Corporation](https://grdc.com.au/research/partnerships-and-initiatives/strategic-partnerships/aagi).
 The strategic partners work with project and associate partner organisations that include leading Australian and international universities, federal and state government research agencies, and commercial technology and analytics providers, to expand the sector’s analytics capability and tackle the Australian grains industry’s biggest challenges.
 
 ### AAGI-AUS R-Universe for R Users
